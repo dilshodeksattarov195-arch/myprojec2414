@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercrocess",
+        "uuid": 8914902,
+        "checksum": "11xhlv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
